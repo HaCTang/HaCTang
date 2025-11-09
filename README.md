@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - B.S. in chemistry at PKU
 - M.S. in pharmaceutical science at Pitts
 - Collaborating with MILA and Princeton
+- From wet experiments to computation
+- Enjoying powerlifting, vedio games and hiking 
 
 🔭 I’m currently working on:
 - Reasoning large language models for chemistry
