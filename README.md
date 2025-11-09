@@ -15,6 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=HaCTang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+🔭 I’m currently working on: 
+- Reasoning large language models for chemistry
+- Generative models for biomolecule dynamics
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=HaCTang" /> </div>
+---
+
+### About My Github
+<div align="center">
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+	  <img height='160' src="https://github-readme-stats.vercel.app/api?username=HaCTang&show_icons=true&theme=tokyonight" align="center" />
+       <!-- <img height='150' weight='100' src="https://github-readme-stats.vercel.app/api?username=bigorange18&hide_title=true&show_icons=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+	<img height='160' src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaCTang&hide=html,css,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Batchfile&layout=compact&langs_count=8&theme=tokyonight" />
+        <!-- <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigorange18&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
+      </td>
+    </tr>
+    <!-- 第三个图片 -->
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=HaCTang&theme=github-compact&hide_border=true&area=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
