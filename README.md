@@ -14,10 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡ About me:
+- B.S. in chemistry at PKU
+- M.S. in pharmaceutical science at Pitts
+- Collaborating with MILA and Princeton
 
-🔭 I’m currently working on: 
+🔭 I’m currently working on:
 - Reasoning large language models for chemistry
 - Generative models for biomolecule dynamics
+
+👯 I’m looking to collaborate on:
+- Multimodal large language models for chemistry and biophysics
+- Reinforcement learning for generative models
+
+📫 How to reach me:
+- You can contact me through 2316301466@qq.com or HAT170@pitt.edu
 
 ---
 
