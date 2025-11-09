@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ---
 
-### About My Github
 <div align="center">
+### About My Github
   <table style="width:100%;">
     <tr>
       <!-- 第一个图片 -->
