@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ About me:
-- B.S. in chemistry at PKU
-- M.S. in pharmaceutical science at Pitts
+- B.S. in chemistry at Peking University
+- M.S. in pharmaceutical science at University of Pittsburgh
 - Collaborating with MILA and Princeton
 - From wet experiments to computation
 - Enjoying powerlifting, vedio games and hiking 
