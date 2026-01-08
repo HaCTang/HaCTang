@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ⚡ About me:
 - B.S. in chemistry at Peking University
 - M.S. in pharmaceutical science at University of Pittsburgh
-- Collaborating with MILA and Princeton
+- Collaborating with MILA, Princeton and UF
 - From wet experiments to computation
 - Enjoying powerlifting, vedio games and hiking 
 
