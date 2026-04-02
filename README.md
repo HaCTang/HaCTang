@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - Enjoying powerlifting, vedio games and hiking 
 
 🔭 I’m currently working on:
-- Reasoning large language models for chemistry
-- Generative models for biomolecule dynamics
+- Large language models for chemistry
+- Enzyme engineering
 
 👯 I’m looking to collaborate on:
 - Multimodal large language models for chemistry and biophysics
