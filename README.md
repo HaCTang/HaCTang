@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - Reinforcement learning for generative models
 
 📫 How to reach me:
-- You can contact me through 2316301466@qq.com or HAT170@pitt.edu
+- You can contact me through 2316301466@qq.com or tang.haoc@northeastern.edu
 
 ---
 
