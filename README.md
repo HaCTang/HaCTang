@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🤝 Collaborating with:
 
-![MILA](https://img.shields.io/badge/MILA-AI-blue)
+![MILA](https://img.shields.io/badge/MILA-blue)
 ![Princeton](https://img.shields.io/badge/Princeton-orange)
 ![UF](https://img.shields.io/badge/UF-blue)
 
