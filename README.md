@@ -76,4 +76,7 @@ Here are some ideas to get you started:
 
 ---
 
-![](https://komarev.com/ghpvc/?username=HaCTang&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HaCTang&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/HaCTang?style=for-the-badge" />
+</p>
