@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 📫 How to reach me:
 - You can contact me through 2316301466@qq.com or tang.haoc@northeastern.edu
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=From+pipettes+to+pip;From+weights+to+weights;From beakers+to+breakthroughs;Training+models.+Training+muscles.+Overfitting+both." align="center" />
 
+---
 
 <div align="center">
 
@@ -75,4 +76,4 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+for+Science;LLMs+for+Chemistry;Protein+Engineering;Future+CS+PhD"/>
+
