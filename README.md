@@ -76,4 +76,4 @@ Here are some ideas to get you started:
 
 ---
 
-![](https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&query=value&url=https://api.countapi.xyz/hit/HaCTang/visits)
+![](https://komarev.com/ghpvc/?username=HaCTang&color=blueviolet&style=for-the-badge)
