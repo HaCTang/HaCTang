@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ About me:
-
-🎓 `Peking University` → Chemistry  
-🧪 `University of Pittsburgh` → Pharmaceutical Science  
-💻 `Northeastern University` → Incoming CS PhD  
-
 ⚡ About me: 
 - B.S. in chemistry at Peking University
 - M.S. in pharmaceutical science at University of Pittsburgh
@@ -74,9 +68,11 @@ Here are some ideas to get you started:
   </table>
 </div>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HaCTang&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/HaCTang?style=for-the-badge" />
 </p>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+for+Science;LLMs+for+Chemistry;Protein+Engineering;Future+CS+PhD"/>
