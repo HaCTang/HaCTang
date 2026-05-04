@@ -14,19 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ⚡ About me:
+
 🎓 `Peking University` → Chemistry  
 🧪 `University of Pittsburgh` → Pharmaceutical Science  
 💻 `Northeastern University` → Incoming CS PhD  
+
 🤝 Collaborating with:
+
 ![MILA](https://img.shields.io/badge/MILA-AI-blue)
 ![Princeton](https://img.shields.io/badge/Princeton-orange)
 ![UF](https://img.shields.io/badge/UF-blue)
+
 🔬 Research:
+
 ![LLM](https://img.shields.io/badge/LLM-Chemistry-green)
 ![Enzyme](https://img.shields.io/badge/Enzyme-Engineering-red)
 ![RL](https://img.shields.io/badge/RL-Generative_Model-purple)
+
 🎮 Lifestyle:
+
 ![Powerlifting](https://img.shields.io/badge/Powerlifting-black)
 ![Gaming](https://img.shields.io/badge/Gaming-purple)
 ![Hiking](https://img.shields.io/badge/Hiking-green)
