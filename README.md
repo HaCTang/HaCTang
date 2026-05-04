@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - You can contact me through 2316301466@qq.com or tang.haoc@northeastern.edu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Training%20models.%20Training%20muscles.%20Overfitting%20both." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&repeat=false&lines=Training%20models.%20Training%20muscles.%20Overfitting%20both." />
 </p>
 
 <!-- <p align="center">
