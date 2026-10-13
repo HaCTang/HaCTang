@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 - Enjoying powerlifting, vedio games and hiking
 
 🔭 I’m currently working on:
-- Large language models for chemistry
+- Peptides
 - Enzyme engineering
+- Forward-processing RL
+- Covalent drugs
 
 👯 I’m looking to collaborate on:
 - Multimodal large language models for chemistry and biophysics
@@ -66,11 +68,15 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <!-- 第三个图片 -->
-    <tr>
-      <td colspan="2" align="center">
-        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=HaCTang&theme=github-compact&hide_border=true&area=true" />
-      </td>
-    </tr>
+	<tr>
+	  <td colspan="2" align="center">
+	    <img
+	      height="220"
+	      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaCTang&theme=tokyonight"
+	      alt="GitHub Profile Details"
+	    />
+	  </td>
+	</tr>
   </table>
 </div>
 
