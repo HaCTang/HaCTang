@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ⚡ About me: 
 - B.S. in chemistry at Peking University
 - M.S. in pharmaceutical science at University of Pittsburgh
-- Incoming Ph.D. in computer science at Northeastern University
+- Ph.D. in computer science at Northeastern University
 - Collaborating with MILA, Princeton and UF
 - From wet experiments to computation
 - Enjoying powerlifting, vedio games and hiking
