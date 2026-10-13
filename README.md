@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaCTang&color=blueviolet&style=for-the-badge&v=20261013" />
+  <img src="https://komarev.com/ghpvc/?username=HaCTang&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/HaCTang?style=for-the-badge" />
 </p>
 
